@@ -3,7 +3,7 @@ International Debt Statistics - Guided Project
 This is a guided project from DataCamp. The data was sourced from The World Bank.
 
 Project Tasks:
-1. Load The World Bank's international debt data
+1. Loading The World Bank's international debt data
 2. Finding the number of distinct countries
 3. Finding out the distinct debt indicators
 4. Totaling the amount of debt owed by the countries
