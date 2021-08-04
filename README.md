@@ -1,6 +1,6 @@
-International Debt Statistics - Guided Project
+# International Debt Statistics - Guided Project
 
-This is a guided project from DataCamp. The data was sourced from The World Bank.
+## This is a guided project from DataCamp. The data was sourced from The World Bank.
 
 Project Tasks:
 1. Loading The World Bank's international debt data
